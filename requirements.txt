@@ -3,6 +3,6 @@ langchain
 langchain_community
 langchain-groq
 langchain-huggingface
-fais-cpu
+faiss-cpu
 sentencce-transformers
 pypdf
